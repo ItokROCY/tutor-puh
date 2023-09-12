@@ -26,7 +26,7 @@ tambahkan baris
 deb https://xsrv.moratelindo.io/kali kali-rolling main contrib non-free non-free-firmware
 ```
 
-![[Pasted image 20230909130753.png]]
+![img1](img/Screenshot 2023-09-12 074938.png)
 
 ubah baris pertama dengan `#` menjadi seperti dibawah
 ```bash
@@ -53,7 +53,7 @@ $ sudo apt upgrade && sudo apt install kali-win-kex -y
 ```
 
 menjalankan kali dalam seamless mode
-![[Pasted image 20230912074343.png]]
+![img2](img/win-kex-sl.png)
 
 ```bash
 $ kex--sl -s
