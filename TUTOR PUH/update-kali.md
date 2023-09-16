@@ -44,3 +44,5 @@ update package
 ```bash
 sudo apt update
 ```
+
+![Alt text](img/sudo-apt-update.png)
