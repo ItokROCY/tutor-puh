@@ -1,11 +1,14 @@
 <h1 align="center">TUTORIAL DEMO ETS MATAKULIAH CYBER</h1>
 
 Create by : [Naufal Farras Wahyuntitof](https://github.com/Farrszzz)
+
 Editor : [Bessotu Putra](https://github.com/ItokROCY)
+
 Operating System Used in this Tutorial : [Linux Ubuntu](https://ubuntu.com/)
+
 Virtual Environment : [VMWARE](https://www.vmware.com/)
 
-[[TOC]]
+---
 
 ## ToDo
 
@@ -14,10 +17,9 @@ Virtual Environment : [VMWARE](https://www.vmware.com/)
 - [x] **Studi kasus 2**
 
   - Menampilkan rules:
+    a. Filter table
 
     ```
-
-    le
 
     le
 
@@ -26,17 +28,19 @@ Virtual Environment : [VMWARE](https://www.vmware.com/)
     d. RAW table
     ```
 
-    - Mengubah policy chain dan cek ulang
+  - Mengubah policy chain dan cek ulang
 
-    - Menambah protokol ICMP, SSH, HTTP, HTTPS, FTP
+  - Menambah protokol ICMP, SSH, HTTP, HTTPS, FTP
 
-    - Menghapus satu rules, melihat semua rules, menyimpan konfigurasi iptables
+  - Menghapus satu rules, melihat semua rules, menyimpan konfigurasi iptables
 
 **Perlu Diperhatikan**
 
 - Bagi linuxnya berbeda dengan yang saya pakai, kalian tinggal sesuaikan saja. Namun apabila ada error anda bisa bertanya kepada Chat GPT/OpenAI, Jangan Manja ya Gaes!!!
 - lakukan sudo apt update && apt upgrade sebelum memulai apapun
 - install ssh dan ftp karena sangat dibutuhkan dalam pengetesan pada studi kasus 1
+
+---
 
 ## ssh/ftp Install & Konfigurasi
 
